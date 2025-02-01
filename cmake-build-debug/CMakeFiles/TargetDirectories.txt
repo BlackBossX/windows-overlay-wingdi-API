@@ -1,0 +1,3 @@
+D:/Github Projects/My Projects/windows-overlay-wingdi-API/cmake-build-debug/CMakeFiles/windows_overlay_wingdi_API.dir
+D:/Github Projects/My Projects/windows-overlay-wingdi-API/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github Projects/My Projects/windows-overlay-wingdi-API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
